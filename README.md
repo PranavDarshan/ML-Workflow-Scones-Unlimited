@@ -96,3 +96,7 @@ The state machine must execute successfully when the payload is given as the sam
 
 You will first perform several step function invokations using data from the test dataset. This process should give you confidence that the workflow both succeeds AND fails as expected. In addition, you will use the captured data from SageMaker Model Monitor to create a visualization to monitor the model.
 The model is monitored and visualized by plotting graphs and histograms.
+
+## Badge
+
+<img src=https://raw.githubusercontent.com/PranavDarshan/ML-Workflow-Scones_Unlimited/main/assets/aws-tailored-p4.webp>
