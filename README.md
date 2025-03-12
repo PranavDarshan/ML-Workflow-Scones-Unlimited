@@ -1,4 +1,4 @@
-# ML-Workflow-Scones_Unlimited
+# ML-Workflow Scones Unlimited
 
 This project was given by Udacity for their Fundamentals of Machine Learning Course. 
 
